@@ -1,0 +1,11 @@
+//
+// Created by Khanh Nguyen on 11/2/22.
+//
+
+#ifndef SFML_TEMPLATE_RANKENUM_H
+#define SFML_TEMPLATE_RANKENUM_H
+enum rankEnum
+{
+    ACE = 1,TWO,THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, JACK, QUEEN, KING
+};
+#endif //SFML_TEMPLATE_RANKENUM_H
